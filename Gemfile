@@ -5,6 +5,7 @@ ruby "3.0.0"
 gem "faker"
 gem "table_print"
 gem 'devise-jwt'
+gem 'devise'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
