@@ -1,24 +1,19 @@
-# README
+# Ouaish Ouaish Canapèèèche => API JSON en RAILS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Utiliser Rails pour créer une API JSON.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+- cloner le repos
+- ou download le zip
 
-* System dependencies
+puis
 
-* Configuration
+```bash
+rails s
+```
+go to http://localhost:3000/
 
-* Database creation
+## Usage
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Conception de l'app pour un maxmimum de plaisiiiiir
